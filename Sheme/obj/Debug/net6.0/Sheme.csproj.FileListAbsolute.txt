@@ -1,0 +1,15 @@
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\bin\Debug\net6.0\Sheme.exe
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\bin\Debug\net6.0\Sheme.deps.json
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\bin\Debug\net6.0\Sheme.runtimeconfig.json
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\bin\Debug\net6.0\Sheme.dll
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\bin\Debug\net6.0\Sheme.pdb
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\obj\Debug\net6.0\Sheme.csproj.AssemblyReference.cache
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\obj\Debug\net6.0\Sheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\obj\Debug\net6.0\Sheme.AssemblyInfoInputs.cache
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\obj\Debug\net6.0\Sheme.AssemblyInfo.cs
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\obj\Debug\net6.0\Sheme.csproj.CoreCompileInputs.cache
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\obj\Debug\net6.0\Sheme.dll
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\obj\Debug\net6.0\refint\Sheme.dll
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\obj\Debug\net6.0\Sheme.pdb
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\obj\Debug\net6.0\Sheme.genruntimeconfig.cache
+C:\Users\kozhe\Desktop\Task\Finish_task\Sheme\obj\Debug\net6.0\ref\Sheme.dll

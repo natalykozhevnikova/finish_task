@@ -26,3 +26,6 @@ void PrintArray(string[] array)
         Console.Write($"{array[i]}");
     }
     Console.WriteLine();
+}
+SecondArrayWithIf(array1, array2);
+PrintArray(array2);
